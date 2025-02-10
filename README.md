@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌎 Hello, World!:
 Hey! My name is João Amaral, I'm a Back-End developer who focuses on Django (Python).<br><br>I am currently on the journey to obtain a bachelor's degree in Information Systems, and I am looking for my first job.
 
 
